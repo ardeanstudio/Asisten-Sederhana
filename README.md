@@ -8,3 +8,7 @@ Pastikan beberapa library berikut telah terinstall di komputer anda:
 - PyAudio
 - wikipedia
 - pipwin
+
+# Contoh
+
+[![Contoh]](https://drive.google.com/file/d/1y-22knWI8f7jevakgf-JxVcoahE9P6Zl/view?usp=share_link)
