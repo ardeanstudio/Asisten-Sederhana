@@ -11,4 +11,4 @@ Pastikan beberapa library berikut telah terinstall di komputer anda:
 
 # Contoh
 
-[![Contoh](https://img.youtube.com/vi/YHEKSD_01I0vXuqX0jnTxw/0.jpg)]([https://www.youtube.com/watch?v=YHEKSD_01I0vXuqX0jnTxw](https://youtu.be/AO2FJnHx65Q))
+[![Alt Text](https://github.com/ardeantechnology/asistensederhana/issues/1#issue-1649310263)
