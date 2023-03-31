@@ -11,4 +11,4 @@ Pastikan beberapa library berikut telah terinstall di komputer anda:
 
 # Contoh
 
-[![Alt Text](https://github.com/ardeantechnology/asistensederhana/issues/1#issue-1649310263)
+https://user-images.githubusercontent.com/25562844/229126648-2602b768-0135-4c4c-8189-19b6d9483cac.mp4
