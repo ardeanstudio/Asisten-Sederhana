@@ -11,4 +11,4 @@ Pastikan beberapa library berikut telah terinstall di komputer anda:
 
 # Contoh
 
-[![Contoh]](https://github.com/ardeantechnology/asistensederhana/blob/63c94c4862155b910494c5d07dcfe8d337c9d3fd/pyassistant.mp4)
+[[Contoh]](https://youtu.be/AO2FJnHx65Q)
